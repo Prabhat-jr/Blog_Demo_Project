@@ -1,0 +1,19 @@
+body {
+  background-image: linear-gradient(
+    90deg,
+    rgba(12, 235, 184, 0.9500175070028011) 0%,
+    rgba(119, 2, 129, 0.9416141456582633) 47%,
+    rgba(0, 212, 255, 1) 100%
+  );
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  margin-top: 12rem;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: yellow;
+  font-size: 1.5rem;
+}
